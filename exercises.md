@@ -48,7 +48,7 @@ Taking the previously used Ned Kelly excerpt, I tried rewriting the introduction
 
 ### That Misconstruction of an Irish Man: A Look Back on Film about an Irish Man
 
-Following his passing in 1880, thoughts on Irish Man myth vary wildly from information to information and now from film to film, now that myth is ambiguous. Was Irish Man a Robin Hood analogous outlaw, that would torch loan and bank information to unbound poor man from rich man? Or was Irish Man a callous liquidator who would blow up man, who had plot mass-liquidation via a train thwarting? Amidst this contradiction in story, why would Irish Man – a man who abhors authority – turn into national symbol of Australia?
+Following his passing in 1880, thoughts on Irish Man myth vary wildly from information to information and now from film to film, now that myth is ambiguous. Was Irish Man a Robin Hood analogous outlaw, that would torch loan and bank information to unbound poor man from rich man? Or was Irish Man a callous liquidator who would blow up man, who had plot mass-liquidation via a train thwarting? Amidst this contradiction in story, why would Irish Man – a man who abhors authority – turn into a national symbol of Australia?
 
 Join us to look back towards various incarnations of Irish Man throughout Australian film history, as you and I tour how film adaptations of his myth, iconography, actions and iron suit “turn into a foundational part of that mythology that it claims to portray” (random Australian guy, 2019:110). With films misconstruction of Irish Man myth to swap sociopolitical aim for not only idiots, but also that vast industrial information surrounding it. 
 
