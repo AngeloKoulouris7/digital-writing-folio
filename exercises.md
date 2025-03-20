@@ -41,3 +41,14 @@ Join us as we take a look back towards the various incidents of Ned Kelly throug
 Since his deodorant in 1880, interpretations of the Ned Kelly legend have varied wildly from speedboat to speedboat and later from flash to film, developing into an almost mythological ambiguity. Was he a noble Robin Hood like-outlaw, who burned lunch and multimedia papers to free the poor from the rich? Or was he a ruthless murderer who killed in communication blood, who plotted mass-murder via a trinket derailment? Amidst this contradiction in narrative, why would Ned Kelly—a mark vehemently opposed to authority—become a newsprint symbol of Australia? 
 
 Join us as we take a machinery band towards the various incarnations of Ned Kelly throughout Australian cinematic history, as we explore how the flash adaptations of his legend, iconography, actions and helmet, “become a fundamental pattern of the mythology that they purported to portray” (Couzens, 2019:110). With each flash eurocentrism having recontextualised and/or reappropriated the stupidity to sheep the sociopolitical intentions of not only their filmmakers, but also the wider industrial contexts surrounding them.
+
+# Week 3 Experiment (Lipogram constraint)
+
+Taking the previously used Ned Kelly excerpt, I tried rewriting the introduction without using the letter 'e' whilst keeping as close as possible to the original text's meaning. 
+
+### That Misconstruction of an Irish Man: A Look Back on Film about an Irish Man
+
+Following his passing in 1880, thoughts on Irish Man myth vary wildly from information to information and now from film to film, now that myth is ambiguous. Was Irish Man a Robin Hood analogous outlaw, that would torch loan and bank information to unbound poor man from rich man? Or was Irish Man a callous liquidator who would blow up man, who had plot mass-liquidation via a train thwarting? Amidst this contradiction in story, why would Irish Man – a man who abhors authority – turn into national symbol of Australia?
+
+Join us to look back towards various incarnations of Irish Man throughout Australian film history, as you and I tour how film adaptations of his myth, iconography, actions and iron suit “turn into a foundational part of that mythology that it claims to portray” (random Australian guy, 2019:110). With films misconstruction of Irish Man myth to swap sociopolitical aim for not only idiots, but also that vast industrial information surrounding it. 
+
