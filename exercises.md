@@ -20,7 +20,7 @@ Terms were taken from a Third Editin Heinemann Australian Dictionary (1987), own
 
 ## Original text:
 
-# The Reappropriation of Ned Kelly: A Retrospective Film Festival
+### The Reappropriation of Ned Kelly: A Retrospective Film Festival
 
 Since his death in 1880, interpretations of the Ned Kelly legend have varied wildly from source to source and later from film to film, developing into an almost mythological ambiguity. Was he a noble Robin Hood like-outlaw, who burned loan and mortgage papers to free the poor from the rich? Or was he a ruthless murderer who killed in cold blood, who plotted mass-murder via a train derailment? Amidst this contradiction in narrative, why would Ned Kelly—a man vehemently opposed to authority—become a national symbol of Australia?
 
