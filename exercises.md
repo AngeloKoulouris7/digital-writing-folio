@@ -96,10 +96,32 @@ On a technical level, I primarily just need to work out how variables and true/f
 Though Bitsy offers another unique way to approach this assignment and create E-Literature in general, at this stage of my project's development I am already committed towards creating a Twine story, having conducted experiments in creating variables, true/false statements, using "tags" as well as using (Link:) functions to move between passages. My goal now for this week and the mid-semester break to create a working prototype of my Film Review Website story in time for the proposal presentation. 
 
 # Week 8 (Proposal)
-<p>What is the story about?</p>
+### <p>What is the story about?</p>
 <p>You - the reader - have been put in charge of moderating a film review website</p>
 <p>The reader is given the ability to decide which reviews they want to feature or remove from their website, which will alter the kinds of audiences the website attracts</p>
 <p>Thus, the website will develop depending on the readers choices, resulting in different story routes and endings</p>
 <p>The target audiences for this story are film aficionados (cinephiles), online reviewers and casual film audiences.</p>
 
 ![image](https://github.com/user-attachments/assets/143d20cf-1486-4877-83e8-14801376a204)
+
+![image](https://github.com/user-attachments/assets/996fadc5-70e6-4dce-ae66-0933ee1e3db3)
+
+![image](https://github.com/user-attachments/assets/4ad8934d-2037-4db3-a9cb-3357cd2c0151)
+
+![image](https://github.com/user-attachments/assets/55499529-1358-404d-925b-29fd5cd68610)
+
+![image](https://github.com/user-attachments/assets/c7a77f87-7bf8-42aa-acd5-944f264f0571)
+
+![image](https://github.com/user-attachments/assets/54c1b591-d647-4be4-bf4b-3ecdd99e89da)
+
+![image](https://github.com/user-attachments/assets/2a267631-8774-4669-8c0c-b7512aac3320)
+
+![image](https://github.com/user-attachments/assets/8ed1736b-f933-4568-90b1-83d134c251ee)
+
+### <p>Questions and Concerns (I have)</p>
+<p>How should/can I integrate a cohesive story into this framework given the agency given to the reader?</p>
+<p>Some ideas I have include</p>
+<p>    - Interested parties/individuals emailing the reader to try and sway their decisions (ie. Angered reviewers, sponsors, critics, YouTubers, celebrities ect.)</p>
+<p>    - Having certain reviewers appear in different routes, showing how their interaction with cinema changes depending on the content promoted on the website</p>
+<p>    - Having the social and cinematic world of this story be (disproportionately) altered by the reviews promoted on this singular Film Review website.</p>
+<p>Given this, how large does this project need to be to properly illustrate this narrative arc? Three Phases? Five Phases? What is feasible given the time I have?</p>
