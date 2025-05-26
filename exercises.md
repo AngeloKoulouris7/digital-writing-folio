@@ -94,3 +94,12 @@ On a technical level, I primarily just need to work out how variables and true/f
 
 # Week 7 Reflection (Bitsy)
 Though Bitsy offers another unique way to approach this assignment and create E-Literature in general, at this stage of my project's development I am already committed towards creating a Twine story, having conducted experiments in creating variables, true/false statements, using "tags" as well as using (Link:) functions to move between passages. My goal now for this week and the mid-semester break to create a working prototype of my Film Review Website story in time for the proposal presentation. 
+
+# Week 8 (Proposal)
+<p>What is the story about?</p>
+<p>You - the reader - have been put in charge of moderating a film review website</p>
+<p>The reader is given the ability to decide which reviews they want to feature or remove from their website, which will alter the kinds of audiences the website attracts</p>
+<p>Thus, the website will develop depending on the readers choices, resulting in different story routes and endings</p>
+<p>The target audiences for this story are film aficionados (cinephiles), online reviewers and casual film audiences.</p>
+
+![image](https://github.com/user-attachments/assets/143d20cf-1486-4877-83e8-14801376a204)
