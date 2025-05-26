@@ -142,11 +142,16 @@ My project has taken on a non-linear structure by design, where there isn't one 
 (In second person perspective). You have been put in charge of moderating a highly regarded Film Review website, ReviewShark.com! In this position, you will have to ensure that the website remains a safe, productive online space for users to review and discuss cinema, featuring the best reviews on your website as marks of quality, while deleting any harmful or less-than-satisfactory reviews you find. The moderator/reader however, has the ability to decide what reviews they wish to feature or delete, with the story changing accordingly to the readers decisions. Depending on what story route the reader goes down, the website and its users will change in dramatic ways to reflect the kinds of content featured on the website.
 
 ### What do you wish there reader to understand of feel?
+I want to illustrate to the reader the differing perspectives that exist within the online discourse surrounding movie reviews and discussions. Showing what may happen if one of these perspectives were to overwhelm the others. 
 
 ### What drives the reader’s momentum through the piece?
+The reader is propelled through their exploration of the various contrasting reviews on the website, and seeing how their choices (of featuring/deleting reviews) ends up changing not only the website but the user's opinions on film as well.
 
 ### How does the digital feed into this momentum?
+The reviews are constructed in a way that the reader can move back and forth between them, as well as choose to read the reviews in any order (or not at all). Upon featuring or deleting a review, it will change certain variables according to its content, which will alter the trajectory of the story based on the readers cumulative choices. 
 
 ### How does the literary and the digital drive the momentum together with the piece’s thematics?
+Each review offers the reader not only a new perspective on the (parody) film of that week, but also an encapsulation of that reviewers values, ideals and personality, which will end up changing based on the narrative trajectory of the website. This is the liteary aspect of the story, seeing how these users (characters) develop through each narrative path. While the digital aspects enabling this non-linear branching pathways, as well as the cumulative choices of featuring/deleting reviews, immerse the reader into the world of the story. Demonstrating that their choices have consequences on this fictional world. 
 
 ### Do you need to develop the story/concept/narrative further in order to answer the above questions? how will you do this? By mapping? By writing it out?
+On reflection, though I have sorted out the coding functionality of my story as well as roughly what I want to happen narratively in my story. I have no way of knowing if the end result will actually result in a cohesive, engaging and rewarding story to read. Because of the non-linear form I am experimenting with, it is hard to judge if characters are developing in meaningful ways, or if a narrative is being formed by clashing these different reviews/perspectives together. I'm wondering if I need to do more to tie the story together with a more concrete throughline (at the risk of losing the non-linearity of the story), or if the end result will work out the way I am hoping. 
