@@ -155,3 +155,19 @@ Each review offers the reader not only a new perspective on the (parody) film of
 
 ### Do you need to develop the story/concept/narrative further in order to answer the above questions? how will you do this? By mapping? By writing it out?
 On reflection, though I have sorted out the coding functionality of my story as well as roughly what I want to happen narratively in my story. I have no way of knowing if the end result will actually result in a cohesive, engaging and rewarding story to read. Because of the non-linear form I am experimenting with, it is hard to judge if characters are developing in meaningful ways, or if a narrative is being formed by clashing these different reviews/perspectives together. I'm wondering if I need to do more to tie the story together with a more concrete throughline (at the risk of losing the non-linearity of the story), or if the end result will work out the way I am hoping. 
+
+# Scope and Scale
+### How many words will it be? + how many screens/passages?
+Due to the way my project functions, involving multiple reviews of different legnths with additional comments written for them, as well as both narrative text (in the form of emails) and functional text (such as movie summaries and information for the reader), it's not possible to calculate/predict how many words my project will be, or how many passages it will take to complete. I recognised because of this, I would have to put a hard limit on the scope of my piece to ensure I would be able to complete it by the end of the semester. This ended up coming in the form of three narrative "phases", which would be enough to create an arc for each story path (a three act structure essentially). Even so, I knew I also had to be careful about how many reviews I would have to write for each pathway, since that would be the bulk of the workload I would have to complete for this project. I initially thought I would write 10 reviews per film, but this ended up extending to 12 to have an equal number of reviewer perspectives for the reader to choose from (4 Critics, 4 Fans, 4 Grifters). 
+
+### What do you need to do on a week-by-week basis (is this realistic?)
+To ensure that I am able to complete this assignment, I decided the best way to do so would be to work on the project for at least an hour every day, preferably at night time (8pm-12pm) since I found that the process of coding and writing reviews to be rather relaxing. This meant that I could focus on other assignments during the day and slowly work on my project at night. As the due date comes closer however, there will be times where I may spend a day focusing on the project to further its progress as much as I can. 
+
+### What is the tech that might get you stuck? what is the workaround/Plan B?
+Because I've already worked out how to use variables and true/false statements through my experiments, granting the reader agency within my story and enabling its non-linear structure, there's actually very little I have to work out coding wise. The majority of my work from here is just writing out the story, and I don't think I'll be facing any coding difficulty from here on out.
+
+### What else might be an obstacle? flag it early with Jenny and Lucinda
+After class on the day I presented my Proposal PowerPoint presentation, I explained to Jenny and Lucinda the concerns I had for the scope of my piece. Through discussing it with them, we decided upon a plan for how much content I would have to create for my project, how many film cycles the website will go through (three), and removed unnecessary elements (extra film choices) that would only increase the workload. 
+
+# Week 9 (Workshop Feedback)
+I didn't actually realise we had a workshop on Wednesday so I didn't come into class with anything prepared to present or discuss, beyond my current work-in-progress project. 
