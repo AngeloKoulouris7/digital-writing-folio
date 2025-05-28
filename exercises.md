@@ -178,6 +178,9 @@ I wasn't aware we had a workshop on Wednesday so I didn't come into class with a
 <p>What I ended up learning was that there is actually a lot more depth to not only digital writing but the extent that digital technologies could be used to create stories in a digital space, as well as the various ways it intersects with other fields of writing, film, gaming and art.</p>
 
 ### How has your creative writing practice developed? are there new directions? Or perhaps it has confirmed something about your practice as it was?
-
+Learning about E-Literature and how I can employ digital technologies to my writing has made me realise I don't have to adhere to the rigid constraints of standard prose writing, the conventions of screenplays or formal essayistic writing, but that I can experiment with and create my own forms with coding. I've always had a habit as a kid of creating my own fictional worlds, characters and stories, but up until now I haven't really explored this aspect of playfulness within my own writing practice. But as creating this Film Review website and all its reviews/characters has shown me, there is a way for me to bring that creativity, this winding, messy, non-linear form of storytelling into my practice.
 
 ### What particular aspects of code-based writing and E-Lit might inform your practice from here on? Perhaps you will take an aspect of E-Lit into an analogue space? Perhaps you will never go near code ever again!
+I think E-Literature is definitely something I want to keep experimenting with, both in Twine as well as exploring more conventional HTML based coding. I want to find out how far I can take the skills I've learnt in this course to the digital space. 
+
+## Brainstorming for Critical Reflection
